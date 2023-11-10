@@ -1,0 +1,450 @@
+{
+  "Agriculture": {
+    "North": {
+      "Chitipa District Council": [
+        "Smart agricultural solutions"
+      ],
+      "Karonga District Council": [
+        "ICT platform to promote behavioral change such as to Raise awareness of general needs; convince farmers to try something new, provide specific information needed for change, facilitate access to credit and input, and Link farmers to markets"
+      ],
+      "Likoma District Council": [
+        "In-Shore Closed- Fish Cage Production Technology"
+      ],
+      "M'MBELWA District Council": [
+        "Innovations to integrated water resources use"
+      ],
+      "Mzuzu Municipal Council": [
+        "Smart agricultural solutions"
+      ],
+      "Nkhatabay District Council": [
+        "Lack of energy for powering irrigation farming"
+      ],
+      "Rumphi District Council": [
+        "Development of a forum/page and data base for value chain actors and stakeholders. To ensure; Knowledge sharing or dissemination of new technologies, Capacity building of farmers and stakeholders, fostering Networking and collaboration of various stakeholders, improve access to Markets, assist in Policy advocacy and promote awareness on climate change and sustainable agriculture practices. Development of data collection ITC tools such as phone applications Can be used by extension workers in efficiently collecting standardized data, analysis, interpretation and dissemination for; Informed decision-making, Monitoring and evaluation, Planning and resource allocation, Risk assessment and management, Market intelligence and value chain development, Research and innovation and Policy formulation and evaluation."
+      ]
+    },
+    "South": {
+      "Balaka District Council": [
+        "Balaka Farmers Communication Hub"
+      ],
+      "Blantyre District Council": [
+        "Development of Dedicated Platform for Digital Extension services.\r\n"
+      ],
+      "Chikwawa District Council": [
+        "Chameleon irrigation technology"
+      ],
+      "Chiradzulu District Council": [
+        "Establishment of a digital mobile application as platform for sharing or dissemination of timely agriculture information to the farming community. The platform will make information accessible covering the whole spectrum of value chain activities, from new technologies released by research, AIP programmes and market information."
+      ],
+      "Luchenza District Council": [
+        "Operationlization of the Nandolo plant."
+      ],
+      "Machinga District Council": [
+        "Machinga Marketing(advertisement hub) App\r\n\r\nThe app should allow cooperatives , farmers to log in with NIDs, contacts and location for their produce for selling. - Broadcasting of messages on mobile phones after 24 hours of advertisement loading to attract potential customers for products of Machinga"
+      ],
+      "Mangochi District Council": [
+        "Establish Electronic Data Base for Agriculture information which will be accessed by farmers at the ARC. Some of the information that will be made available include, Rainfall data, Good Agricultural Practices, Cropping patterns, Marketing trends, Dog bite case etc"
+      ],
+      "Mangochi Municipality": [
+        "Developing a virtual extension services platform for urban farmers."
+      ],
+      "Mwanza District Council": [
+        "Digitalization of dissemination of agricultural extension and advisory services a) All agriculture resource centers (ARC's) equipped with up-to-date information technologies and efficiency of ARCs b) Adoption rate of improved agriculture technologies by farmers enhanced through use of up-to-date ICT to disseminate agricultural extension and advisory services c) Effectiveness and efficiency of M&E system in agriculture sector enhanced through use of application and gadget's that provide interface between implementation and supervisors d) Data storage and management improved through use of digital data bases"
+      ],
+      "Mulanje District Council": [
+        "Develop Agriculture Management information system Provide inputs, productivity, markets, weather, and climate to farmers."
+      ],
+      "Neno District Council": [
+        "Remote sensing using satellite technologies and geographical information systems can be used to increase agricultural output. Using smart drones to monitor production and use of charcoal."
+      ],
+      "Phalombe District Council": [
+        "Electronic platform to link farmers to reliable off takers."
+      ],
+      "Zomba District Council": [
+        "A platform where farmers should be entering and updating progress of their crops starting from the planting date, hectarage, and estimated date when the crop will mature."
+      ]
+    },
+    "Central": {
+      "Dedza District Council": [
+        "Participatory information for climate services\r\n\r\nAn innovative way in which farmers get climate and weather-related information for their agriculture preparedness."
+      ],
+      "Dowa District Council": [
+        "Online marketing platform"
+      ],
+      "Kasungu District Council": [
+        "Development of farm management software.\r\n\r\nRecord keeping and data management. Crop planning and management. Financial management. E-extension services Developing mobile app and interactive voice response systems to provide farmers with personalized advisory services and timely information."
+      ],
+      "Lilongwe City Council": [
+        "System for tracking forestry cover in the City"
+      ],
+      "Nkhotakota District Council": [
+        "There is need to use ICT to improve farmers access to markets and linkages to buyers. This will involve the development of an application that will help to provide information pertaining to type of commodity including varieties, quantities, prevailing prices, contact details of the farmers and their locations to markets/buyers. The council proposes to develop a localized platform which it can easily update, monitor and easily be used by extension workers and farmers in accessing and inputting data on irrigation."
+      ],
+      "Ntcheu District Council": [
+        "Tsangano Irish Potatoes Farmers Association Web Based Systems."
+      ],
+      "Ntchisi District Council": [
+        "Leveraging ICT for Value Addition in Agribusiness\r\n\r\nIntegrating ICT into the Agribusiness value chain"
+      ],
+      "Salima District Council": [
+        "Providing extension messages on Agriculture issues\r\n\r\nthrough ICT and Promotion of high value chains in Agriculture through ICT. This aims at providing platform on key messages to farmers and farmer groups on production, agro-processing and marketing through use of ICT."
+      ]
+    }
+  },
+  "Banking & Finance": {
+    "North": {
+      "Chitipa District Council": [
+        "Revenue Collection management system"
+      ],
+      "Karonga District Council": [
+        "Digitalize data register from data collection and tracking\r\n"
+      ],
+      "Likoma District Council": [
+        "introduction of e-ticketing"
+      ],
+      "M'MBELWA District Council": [
+        "Innovations in market revenue generation, collection and management"
+      ],
+      "Mzuzu Municipal Council": [
+        "Using IOT to manage vendors for inclusivity and compliance."
+      ],
+      "Rumphi District Council": [
+        "Development of user-friendly digital financial apps."
+      ]
+    },
+    "South": {
+      "Balaka District Council": [
+        "Digitization of Local revenue Collection and Management System\r\n"
+      ],
+      "Blantyre City Council": [
+        "System that assists Debt collectors to trace or identify properties."
+      ],
+      "Blantyre District Council": [
+        "Development of a Digital Solution for Locally Generated Revenue Collection\r\n"
+      ],
+      "Chikwawa District Council": [
+        "Locally Generated Revenue Collection"
+      ],
+      "Chiradzulu District Council": [
+        "Introduction of an E-ticketing system that can be interfaced with Council systems for live monitoring of the operations in all market establishments."
+      ],
+      "Luchenza District Council": [
+        "Creation/ Updating of an Urban Structure plan."
+      ],
+      "Machinga District Council": [
+        "District Levy Payment App\r\n\r\n-Preloaded district levies register -Preloaded district register with district business registration numbers -Aging software for auto-generated reminders to clients"
+      ],
+      "Mangochi Municipality": [
+        "Developing a property rate tracker which can be used as a database to assist in revenue collection."
+      ],
+      "Mwanza District Council": [
+        "Integration of Local Revenue Management Information System with mobile money providers"
+      ],
+      "Mulanje District Council": [
+        "Automated biling system to enhance local revenue collection."
+      ],
+      "Nsanje District Council": [
+        "HIGH PRIFRAGE OF LOCALLY GENERATED REVENUE \u2013 Introduction of e-ticketing"
+      ],
+      "Phalombe District Council": [
+        "Introduction of E-ticketing mechanisms and e-licensing mechanisms"
+      ],
+      "Thyolo District Council": [
+        "Design, install, operate and manage an Electronic Business Register to improve local revenue collection for the District Council"
+      ],
+      "Zomba City Council": [
+        "Expansion to other form of e-payment system and creating a platform for electronic invoicing and any other council fees reminder systems."
+      ],
+      "Zomba District Council": [
+        "Revenue Collection management system"
+      ]
+    },
+    "Central": {
+      "Dedza District Council": [
+        "Logistics management system\r\n\r\nOnline payment processing system."
+      ],
+      "Dowa District Council": [
+        "Digitalization of Council Revenues\r\n\r\nDigitalization of business licenses by creating a website that clients can be able to apply for business license online and payments can be made through Airtel money, Mpamba and through bank transfers with an aim of achieving the goal of vision 2063 of digitization of all government\u2019s payment."
+      ],
+      "Kasungu District Council": [
+        "Introduce Electronic Ticketing Services in Markets\r\n\r\nAutomated local revenue collection system rolled out"
+      ],
+      "Lilongwe City Council": [
+        "1. Linkages of land management systems between departments and Data cleaning (SVR).. 2. Development of a system for timely reminders for various payments e.g City rates, licenses"
+      ],
+      "Mchinji District Council": [
+        "THE USE OF E-TICKET FOR REVENUE COLLECTION"
+      ],
+      "Nkhotakota District Council": [
+        "The council proposes to develop a platform/system for receiving payments from various license and rate payers."
+      ],
+      "Ntcheu District Council": [
+        "E-Ticketing for Market fees Banking and finance Sector"
+      ],
+      "Ntchisi District Council": [
+        "Introduction of E-ticketing mechanisms"
+      ],
+      "Salima District Council": [
+        "Development of Instant Revenue Collection System"
+      ]
+    }
+  },
+  "Education": {
+    "North": {
+      "Chitipa District Council": [
+        "Digital libraries"
+      ],
+      "Karonga District Council": [
+        "An app for tracking completion rates"
+      ],
+      "Likoma District Council": [
+        "Teacher Class Attendance Monitoring Tool"
+      ],
+      "M'MBELWA District Council": [
+        "Any innovations that promote access to Early Childhood Development Services"
+      ],
+      "Mzuzu Municipal Council": [
+        "ICT solutions to addressing the issues of real time data for decision, teaching spaces, and modes that enhance learning."
+      ],
+      "Nkhatabay District Council": [
+        "Digital libraries"
+      ],
+      "Rumphi District Council": [
+        "Development of digital platform that could handy track school activities and performances in education sector."
+      ]
+    },
+    "South": {
+      "Balaka District Council": [
+        "Digitized Tracking System of Female Learner School Attendance and Performance\r\n"
+      ],
+      "Blantyre City Council": [
+        "Access to e-books in primary schools. ICT facilities that assist Special Education Needs\r\n"
+      ],
+      "Blantyre District Council": [
+        "Automated Education, Youth and Sports Management Information System\r\n"
+      ],
+      "Chikwawa District Council": [
+        "The intervention under education sector will focus on using android phones for tracking primary school and zone performance in difference indicators in order to improve learner performance."
+      ],
+      "Chiradzulu District Council": [
+        "Establish Data Management Information Systems Database that will link school, district and National (EMIS) database. Create; \u2022 School Record Management System (SRMS) \u2022 District Education Management System - Creating a link with: 1. EMIS 2. MANEB Web Portal 3. Real Time Data Management (RTDM) 4. HCA Web Portal"
+      ],
+      "Machinga District Council": [
+        "Staff attendance Register App\r\n\r\n-Preloaded duty stations names, duty station coordinates and employment numbers -Staff will log in using employment numbers to register attendance -The App should compare coordinates of a point of attendance registration and preloaded coordinates to determine presence . If coordinates are within the range of the duty station, it should accept and take a picture and time else the staff is absent and should give him/her an option to write a reason -Staff should log in to sign off -The attendance register details will be uploaded on server (The attendance form should downloaded from the server with all preloaded details)"
+      ],
+      "Mangochi Municipality": [
+        "Develop an E-learning platform."
+      ],
+      "Mwanza District Council": [
+        "Digitize recording of daily attendance of both teacher's and learner's. All the data collected at the end of the day will then be submitted and reach the director of education, youth and sports office via the internet."
+      ],
+      "Mulanje District Council": [
+        "Tracking teacher and pupil attendance"
+      ],
+      "Neno District Council": [
+        "School Records Management Information System, Zone Records Management Information System and District Records Management Information System"
+      ],
+      "Phalombe District Council": [
+        "Integrating ICT in schools"
+      ],
+      "Zomba City Council": [
+        "Development of E-Learning platform and E-Library"
+      ],
+      "Zomba District Council": [
+        "System where all learners should be uploaded from each and every school with the status of bursary and who is paying. Bursary administration is a big challenge as they are duplications that go undetected while other equally deserving learners are left out. One learner sometimes have multiple donors which only the school administration knows."
+      ]
+    },
+    "Central": {
+      "Dedza District Council": [
+        "An innovation that will promote inclusive education and ICT."
+      ],
+      "Dowa District Council": [
+        "E-learning platform"
+      ],
+      "Kasungu District Council": [
+        "District education portal\r\n\r\nFor easy reporting and access of information on distribution of resources. Platform to be utilized for reporting, storage and easy access of information in all schools, zones and the district at large."
+      ],
+      "Lilongwe City Council": [
+        "Need for systems to improve absenteeism and management of teachers (training rosters and duty rosters)"
+      ],
+      "Mchinji District Council": [
+        "Teachers attendance and Punctuality through ICT"
+      ],
+      "Nkhotakota District Council": [
+        "Development of a localized district software application deliberately designed to process end of term data in our schools much easier and timely than the teacher can do manually."
+      ],
+      "Ntchisi District Council": [
+        "Integrating ICT in schools"
+      ]
+    }
+  },
+  "Health": {
+    "North": {
+      "Chitipa District Council": [
+        "Waste management system"
+      ],
+      "Karonga District Council": [
+        "To develop an app that will detect ART client defaulters on time"
+      ],
+      "Likoma District Council": [
+        "Introduce expert clients for follow ups and introduce digital and manual reminders"
+      ],
+      "M'MBELWA District Council": [
+        "Innovations in water sanitation and hygiene technologies and Behaviour change and communication strategies and interventions would be championed."
+      ],
+      "Mzuzu Municipal Council": [
+        "smart waste management technologies.\r\n\r\nTo improve efficiency in collection and management. Some of the solutions could be using smart bins, digitize collection routes and tracking on waste collection. Explore the use of tools such as I-Tree canopy and landscape classify land and tree cover given area by using random sampling of aerial imagery."
+      ],
+      "Rumphi District Council": [
+        "Electronic Medical Records\r\n\r\nEMRs have the ability to exchange health information electronically which can help to provide higher quality and safer care for patients while creating tangible enhancements for the organization."
+      ]
+    },
+    "South": {
+      "Balaka District Council": [
+        "Radiation Safety: Integrated Digitized Radiographic System\r\n"
+      ],
+      "Blantyre City Council": [
+        "System that monitors illegal dumping of garbage and system that monitors refuse trucks. Monitoring system and enforcement strategies that monitor vandalism of natural resources."
+      ],
+      "Blantyre District Council": [
+        "Development of a Health Information System for Decision Making\r\n"
+      ],
+      "Chikwawa District Council": [
+        "Management of client data and prescriptions for clients attending non-communicable diseases (NCDs) clinics in Chikwawa."
+      ],
+      "Chiradzulu District Council": [
+        "Creation of a closed website at District Hospital to facilitate timely receipts of diagnostic patients\u2019 results. This Closed website will serve as a dedicated platform accessible only to authorized healthcare providers within our hospital, ensuring the confidentiality and privacy of patient information."
+      ],
+      "Luchenza District Council": [
+        "Production of solid and liquid waste vehicles."
+      ],
+      "Machinga District Council": [
+        "Machinga Maternal health Access App\r\n\r\nThe app should sensitise communities on good maternal health practices."
+      ],
+      "Mangochi Municipality": [
+        "Developing auto tracking webcam cameras\r\n\r\nTo be able to capture polluters who can later be taken to book or developing a household waste generation monitoring kit which will entail levying charges to those households generating most waste, also fail to do sorting. Developing a automated surveillance system. To monitor trends as well as be able to pick cases that have passed thresholds and provide warning."
+      ],
+      "Mwanza District Council": [
+        "Digitalization of the immunization program\r\n\r\na) Using child birth registration numbers which track them to parents/guardians in the community for active follow up where need be b) Linked to the district integrated health management information system where the system can raise a red flag once a child is due or late for immunization when the child has come to the hospital for other reasons. d) System to also allow use of small gadget's as phones by the community health workers (HSAs)"
+      ],
+      "Mulanje District Council": [
+        "Development of automated fixed asset management information system"
+      ],
+      "Phalombe District Council": [
+        "Utilization of CMA app to improve community based maternal and neonatal health service delivery in rural areas."
+      ],
+      "Zomba City Council": [
+        "Designing of simple local methods of utilizing solid waste as an input to an economic product that would reduce amount of waste reaching or filling landfills or dumpsites."
+      ],
+      "Zomba District Council": [
+        "Electronic medical records system"
+      ]
+    },
+    "Central": {
+      "Dedza District Council": [
+        "Payment processing\r\n\r\nDevelopment of integrated system to link patient to all systems of the hospital departments."
+      ],
+      "Kasungu District Council": [
+        "Electronic record keeping\r\n\r\nThe implementation of data entry and visualization. Development of an electronic triage system that streamlines patient flow."
+      ],
+      "Lilongwe City Council": [
+        "Establish Green house energy conversion.\r\n\r\nUnderutilisation of City clinics by the public, A system to show where there are Clinics and services being offered."
+      ],
+      "Nkhotakota District Council": [
+        "Extension of the integrated Basic Laboratory Information System (IBLIS) to the wards and departments will benefit a lot from the laboratory services. This will involve allocation of computer monitor and printer in each ward and department which will be used to log in samples for the patients in the wards or departments for analysis"
+      ],
+      "Ntcheu District Council": [
+        "Database for HSA\u2019s activities Health Sector"
+      ],
+      "Ntchisi District Council": [
+        "Digitization of record keeping and filing\r\n\r\nGood record tracking would enhance health service delivery"
+      ],
+      "Salima District Council": [
+        "Digitalization and linking all health departments computers and facilities to the District Hospital."
+      ]
+    }
+  },
+  "ICT and Digital Services": {
+    "North": {
+      "Karonga District Council": [
+        "Developing recording system for e-personal file"
+      ],
+      "Likoma District Council": [
+        "Digitisation of Council Services and Records"
+      ],
+      "M'MBELWA District Council": [
+        "Innovations for ICT and digital services in schools and health facilities."
+      ],
+      "Mzuzu Municipal Council": [
+        "Urban development.\r\n\r\nDevelop an Urban Observatory to generate awareness on urban issues and improve general accountability of decision makers. The tool could provide a monitoring system that can help collate, analyze and translate data into simple-to-understand information for policies and actions."
+      ],
+      "Nkhatabay District Council": [
+        "Data sharing of council news to the public"
+      ],
+      "Rumphi District Council": [
+        "Development of digital platforms that can use vernacular language.\r\n"
+      ]
+    },
+    "South": {
+      "Balaka District Council": [
+        "Balaka District Social Programs Digital Beneficiary Tracking System"
+      ],
+      "Blantyre City Council": [
+        "Integration of land information system, billing system, payroll, financial management system and geographical information system."
+      ],
+      "Blantyre District Council": [
+        "Development of a harmonized Reporting and Tracking Platform for Development Initiatives Data Warehouse and Electronic Records Archiving Solution"
+      ],
+      "Chikwawa District Council": [
+        "Development of a harmonized Reporting and Tracking System for Development Partners and Citizen engagement Development of a Website for Chikwawa District Council"
+      ],
+      "Chiradzulu District Council": [
+        "Development of a Digitized Trade and Financial Platform for improved Revenue Collection"
+      ],
+      "Machinga District Council": [
+        "Moodle LMS (Learning Management System) for mass online CPD courses for teachers and students Recorded approved lessons for best teachers on subject or topic for e-learning in all schools -Uploaded books for teachers and leaners"
+      ],
+      "Mangochi Municipality": [
+        "Develop Mangochi Municipal Council automated property rate/revenue interface platform."
+      ],
+      "Mwanza District Council": [
+        "Automation of M&E systems ( tracking budgets along it's activities)."
+      ],
+      "Mulanje District Council": [
+        "Development of land administration and management system To track land records, land transactions, storage of cadastral maps, survey plans, public land application, patents and titles."
+      ],
+      "Phalombe District Council": [
+        "Council website development and hosting"
+      ],
+      "Thyolo District Council": [
+        "Design and install e-File Sharing System for easy communication and reduced data (file) loss."
+      ],
+      "Zomba City Council": [
+        "Designing of the system that can dignitary used to manage vendor registry"
+      ],
+      "Zomba District Council": [
+        "Linking IFMIS and other payment processes like e ticketing"
+      ]
+    },
+    "Central": {
+      "Dedza District Council": [
+        "Unlocking talent from special needs learners"
+      ],
+      "Kasungu District Council": [
+        "Effective data management and analytics system\r\n\r\nData Integration of all departments, Data Storage and Infrastructure, Data Governance, and Analytics Tools and Visualization."
+      ],
+      "Lilongwe City Council": [
+        "Automation of record keeping\r\n\r\n1. System to monitor economic improvement of the City residents.. 2. Link biometric system with payroll.. 3. Database for Monitoring and evaluation e.g generating monthly reports and annual report"
+      ],
+      "Nkhotakota District Council": [
+        "Develop, maintain and operationalize a website that will also have linkages to news feeds/information updates from the council."
+      ],
+      "Ntchisi District Council": [
+        "Introduction of Harmonised Information systems and District Websites/portal"
+      ],
+      "Salima District Council": [
+        "Development of a Council webpage\r\n\r\nwhere all sectors will be linked. Digital mapping of all Council services to be displayed digitally for easy planning"
+      ]
+    }
+  }
+}
